@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jonathan9-9
-- 👀 I’m interested in coding solution to complicated problems 
-- 🌱 I’m currently learning the cloud and redux toolkit to optimize my code.
-- 💞️ I’m looking to collaborate on open-source projects both front and back-end projects
-- 📫 You can reach me via this email: jonathancornejox@gmail.com
+- 👀 I’m interested in coding solutions to complicated problems .
+- 🌱 I’m currently learning the cloud (AWS) and redux toolkit to optimize my code.
+- 💞️ I’m looking to collaborate on open-source projects - back end and front end.
+- 📫 You can reach me via email: jonathancornejox@gmail.com
 
 # Reach out to me:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
