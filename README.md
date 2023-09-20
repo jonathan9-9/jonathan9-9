@@ -29,4 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan9-9&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan9-9&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan9-9&show_icons=true&theme=dracula)
