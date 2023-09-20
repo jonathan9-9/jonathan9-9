@@ -24,3 +24,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+# 📉 My Github Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan9-9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
