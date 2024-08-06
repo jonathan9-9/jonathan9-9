@@ -2,9 +2,9 @@
 # BIO:
 
 - 👋 Hi, I’m @jonathan9-9
-- 👀 I’m interested in coding solutions to complicated problems .
-- 🌱 I’m currently learning the cloud (AWS) and redux toolkit to optimize my code.
-- 💞️ I’m looking to collaborate on open-source projects - back end and front end.
+- 👀 I’m interested in coding solutions to complex problems .
+- 🌱 I’m currently learning the cloud (AWS) and TypeScript to optimize my code.
+- 👥 I’m looking to collaborate on open-source projects - back end and front end.
 - 📫 You can reach me via email: jonathancornejox@gmail.com
 
 # Reach out to me: 
